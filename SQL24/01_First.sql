@@ -1,0 +1,4 @@
+CREATE DATABASE xyz; 
+
+DROP DATABASE xyz;
+
